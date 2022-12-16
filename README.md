@@ -1,8 +1,8 @@
 ## Hi, I'm Erick!
 <div align="center">
   <a href="https://github.com/Erick-Melo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Melo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Melo&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Erick-Melo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Melo&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
