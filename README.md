@@ -1,7 +1,7 @@
 ## Hi, I'm Erick!
 <div align="center">
   <a href="https://github.com/Erick-Melo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Melo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Melo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
